@@ -1,5 +1,9 @@
-# 👋 Hi, I’m @pascalwerren03
+# Hi there 👋
+
+-----
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascalwerren03)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascalwerren03&count_private=true&show_icons=true)
 
