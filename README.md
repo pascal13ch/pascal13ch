@@ -18,4 +18,8 @@
 
 [comment]: <> (![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=pascalwerren03&count_private=true&show_icons=true&#41;)
 
-[comment]: <> ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com?user=pascalwerren03&#41;]&#40;https://git.io/streak-stats&#41;)
+<br>
+<br>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pascalwerren03">
+</div>
