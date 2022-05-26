@@ -10,8 +10,9 @@
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pascal13ch&theme=dark"
             alt="Josee9988's Github commit streak">
     </a>
+</div>
 
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```text
 From: 25 April 2022 - To: 25 May 2022
