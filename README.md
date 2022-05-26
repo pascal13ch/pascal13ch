@@ -6,13 +6,10 @@
 </p> -->
 
 
-[comment]: <> (<h3>📈 My Dev Statistics: </h3>)
+<h3>📈 My Dev Statistics: </h3>
 
-[comment]: <> (WAKATIME IMPLEMENTATION)
-
-[comment]: <> (<!--START_SECTION:waka-->)
-
-[comment]: <> (<!--END_SECTION:waka-->)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [comment]: <> (<h3>⚡ My GitHub Statistics</h3>)
 
