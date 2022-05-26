@@ -1,16 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Pascal</h1>
 
-<!--<p align="center">
-  <a href="">Website (Offline)</a> •
-  <a href="https://twitter.com/SoEinFehler">Twitter</a>
-</p> -->
-
-
-<h3>📈 My Dev Statistics: </h3>
-
-
-
-[comment]: <> (<h3>⚡ My GitHub Statistics</h3>)
 ## **📊 Stats**
 
 <div align="center" style="text-align:center">
