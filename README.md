@@ -12,7 +12,7 @@
     </a>
 
   <!--START_SECTION:waka-->
-</div>
+
 ```text
 From: 25 April 2022 - To: 25 May 2022
 
