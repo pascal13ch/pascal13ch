@@ -18,6 +18,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: pascal13ch/pascal3ch@main
+      - uses: pascal13ch/pascal13ch@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
