@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Pascal</h1>
 
-## **📊 Stats**
 
 <div align="center" style="text-align:center">
     <a href="#">
