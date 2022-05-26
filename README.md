@@ -15,11 +15,11 @@
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pascal13ch&count_private=true&show_icons=true&#41;"
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pascal13ch&theme=dark&count_private=true&show_icons=true&#41;"
             alt="Josee9988's Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pascal13ch"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pascal13ch&theme=dark"
             alt="Josee9988's Github commit streak">
     </a>
 
@@ -33,8 +33,3 @@ JSON         14 mins         ██████████▓░░░░░░
 <!--END_SECTION:waka-->
 </div>
 
-<br>
-<br>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=pascal13ch&theme=dark">
-</div>
