@@ -14,6 +14,8 @@
   <!--START_SECTION:waka-->
 
 ```text
+From: 25 April 2022 - To: 25 May 2022
+
 Total Time: 1 hr 21 mins
 
 JavaScript   50 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.42 %
