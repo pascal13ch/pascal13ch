@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 January 2023 - To: 15 February 2023
+From: 17 January 2023 - To: 16 February 2023
 
 JavaScript                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀   89.28 %
 Docker                       ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.24 %
